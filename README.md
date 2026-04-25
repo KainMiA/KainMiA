@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/139353731?s=400&u=20440e80c936f422d9b67c059cf9d6258215a77c&v=4" width="120" style="border-radius:50%">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5E81AC&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+YourName!;A+passionate+developer+from+Earth;Always+learning+new+things)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5E81AC&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Kai!;A+passionate+developer+from+Earth;Always+learning+new+things)](https://git.io/typing-svg)
 </div>
 
 ---
