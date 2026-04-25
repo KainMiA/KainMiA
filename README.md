@@ -6,14 +6,14 @@
 
 ---
 
-### 👨‍💻 Hi
+### Hi
 - 🔭 I’m Kai — I mainly develop biological algorithms and tools
 - 🌱 Interested in traveling, hiking, and quantitative trading
 - 🥳 Learning and sharing tools and algorithms related to biology and quantitative trading
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -21,15 +21,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KainMiA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KainMiA&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KainMiA&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KainMiA&layout=compact&langs_count=8&theme=transparent"/>
   
-  <img src="https://streak-stats.demolab.com?user=KainMiA&theme=dracula&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KainMiA&theme=dracula" />
+  <img src="https://streak-stats.demolab.com?user=KainMiA&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KainMiA&theme=transparent" />
 </div>
 
 ---
+
+
 
