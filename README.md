@@ -33,14 +33,3 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KainMiA&theme=dracula&column=7" />
-</div>
-
----
-
-### 👀 Visitor Count
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KainMiA&style=flat-square&color=blue" alt=""/>
-</div>
