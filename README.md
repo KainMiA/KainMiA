@@ -38,14 +38,14 @@
 
 <div align="center">
   <!-- Stats 卡片 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KainMiA&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
   
   <!-- Top Languages 卡片 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KainMiA&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
   
   <!-- Streak 连续提交 -->
-  <img src="https://streak-stats.demolab.com?user=你的用户名&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=KainMiA&theme=transparent&hide_border=true" />
   
   <!-- Activity Graph 活动热力图 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KainMiA&theme=transparent&hide_border=true" />
 </div>
