@@ -18,6 +18,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![transformers](https://img.shields.io/badge/-transformers-F7A41D?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Shiny](https://img.shields.io/badge/-Shiny-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ---
 
